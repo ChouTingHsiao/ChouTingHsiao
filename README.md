@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=efd81d&color=2bbc8a)
-![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.NET&logoColor=bb8bf3&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=C-Sharp&logoColor=bb8bf3&color=2bbc8a)
 
 ![](https://img.shields.io/badge/tool-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=23a7f2&color=2bbc8a)
 ![](https://img.shields.io/badge/tool-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=bb8bf3&color=2bbc8a)
