@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ## &#x1f4c8; GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChouTingHsiao&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChouTingHsiao&theme=vue&layout=compact&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChouTingHsiao&theme=vue&layout=compact&line_height=50)](https://github.com/anuraghazra/github-readme-stats)
