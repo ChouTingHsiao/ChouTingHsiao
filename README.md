@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/tool-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=bb8bf3&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChouTingHsiao&theme=vue&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChouTingHsiao&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChouTingHsiao&theme=vue&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChouTingHsiao&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
