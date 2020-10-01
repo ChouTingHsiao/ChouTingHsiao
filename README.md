@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 ## 🔧 Technologies & Tools 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=8ef4f9&color=2bbc8a)
 
 
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-.Net-informational?style=flat&logo=.NET&logoColor=white&color=2bbc8a)
 
-![](https://img.shields.io/badge/tool-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/tool-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/tool-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=blue&color=2bbc8a)
+![](https://img.shields.io/badge/tool-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=f45ffc&color=2bbc8a)
 
 ## &#x1f4c8; GitHub Stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChouTingHsiao&theme=gotham&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
