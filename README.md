@@ -19,13 +19,16 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=00adef&color=2bbc8a)
 
-
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=efd81d&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Csharp-informational?style=flat&logo=C-Sharp&logoColor=green&color=2bbc8a)
 
-![](https://img.shields.io/badge/tool-VisualStudioCode-informational?style=flat&logo=visual-studio-code&logoColor=23a7f2&color=2bbc8a)
-![](https://img.shields.io/badge/tool-VisualStudio-informational?style=flat&logo=visual-studio&logoColor=bb8bf3&color=2bbc8a)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,dotnet,docker,jenkins" />
+  </a>
+</p>
 
 ## 📈 GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ChouTingHsiao&theme=vue&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChouTingHsiao&theme=vue&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChouTingHsiao&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ChouTingHsiao&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChouTingHsiao&theme=default)
