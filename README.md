@@ -24,7 +24,13 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,dotnet,docker,jenkins&theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux&theme=light" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=angular,dotnet&theme=light" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis&theme=light" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,jenkins&theme=light" />
   </a>
 </p>
 
